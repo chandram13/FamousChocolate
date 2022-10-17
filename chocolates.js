@@ -33,4 +33,15 @@ class chocolates{
         milkbutterchew = {"1lb": 32.50};
         milk_butterscotchsquare = {"1lb": 32.50};
     }
+    function compactChocolate(){
+        assorted = {"Assorted Molasses Chips": 13.75, "Dark Molasses Chips": 13.75, "Milk Molasses Chips": 13.75, "Assorted Peppermints": 13.75, "Dark Peppermints": 13.75, "Milk Peppermints": 13.75};
+    }
+    function candyBars(){
+        sugarfree_darkBars = {4: 12.75, 24: 73.00};
+        darkChocolate = {4: 10.75, 24: 61.00};
+        extraDark = {4: 10.75, 24: 61.00};
+        milkChocolate = {4: 10.75, 24: 61.00};
+        sugarfree_milkbars = {4: 12.75, 24: 73.00};
+        assortedCandybars = {4: 10.75};
+    }
 }
